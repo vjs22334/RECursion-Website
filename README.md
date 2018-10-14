@@ -1,7 +1,17 @@
-To start the application
+# RECursion Website
 
-Open your terminal and type
+RECursion NIT Durgapur is an initiative to embolden the budding coding minds through regular Code Classes, robust coding competitions and geeky sessions. The website contains a forum where, coders can address their doubts.
 
-1) bundle install
-2) rake db:migrate
-3) rails s
+## Project Description
+
+### Technology Stack
+* Ruby on Rails
+* Material CSS
+* jQuery
+
+## Future Tasks
+The tech stack of the website to be converted to djando with addition of the following features -
+* Elastic Search
+* Notification System
+* Social Share
+* Friendly ID
